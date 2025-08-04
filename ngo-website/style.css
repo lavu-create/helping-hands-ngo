@@ -1,0 +1,35 @@
+/* styles.css */
+
+/* Smooth scrolling for internal anchor links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Section headings */
+h2 {
+  font-weight: 600;
+}
+
+/* Footer text */
+footer p {
+  margin: 0;
+}
+
+/* Optional: Add subtle shadow to form for better depth */
+form {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+/* Make form inputs more modern */
+input, select, textarea {
+  border-radius: 6px !important;
+}
+
+/* Make navbar brand bold */
+.navbar-brand {
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}

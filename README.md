@@ -10,12 +10,6 @@ This project includes:
 
 ---
 
-## 🚀 Live Preview
-
-> *(Optional: Add a GitHub Pages / Vercel / Netlify link here if hosted)*
-
----
-
 ## 📂 Project Structure
 ngo-website/
 ├── index.html # Main HTML file
@@ -38,18 +32,6 @@ ngo-website/
 - **HTML5**
 - **CSS3**
 - **Bootstrap 5 (CDN)**
-
----
-
-## 📸 Screenshots
-
-> *(Optional: Add screenshots here)*
-
----
-
-## 🙌 Contribute
-
-Want to improve the design or add backend form handling (using Java or Node.js)? Feel free to fork and submit a pull request!
 
 ---
 
